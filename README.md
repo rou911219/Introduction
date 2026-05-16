@@ -6,11 +6,11 @@
 ✨ 此 GitHub 主要用於分享我的研究、程式碼、資料分析與設計相關作品。
 
 
--**💼 Experiences**
+-**💼 Experiences**<br>
 
--**🎓 Education**
--輔仁大學統計資訊學系
--輔仁大學統計資訊學系應用統計碩士班
+-**🎓 Education**<br>
+-輔仁大學統計資訊學系<br>
+-輔仁大學統計資訊學系應用統計碩士班<br>
 
--**🏆 Competitions & Presentations**n
--中研院資料科學漫步競賽｜優選
+-**🏆 Competitions & Presentations**<br>
+-中研院資料科學漫步競賽｜優選<br>
